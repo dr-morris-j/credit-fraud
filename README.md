@@ -12,3 +12,10 @@ The complete dataset is available [here](https://www.kaggle.com/datasets/mlg-ulb
 The dataset used was provided by Kaggle and is available [here](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download).
 
 The dataset is anonymized and has only numerical value inputs resulting from [PCA](https://machinelearningmastery.com/dimensionality-reduction-for-machine-learning/). 
+
+### Tools used.
+
++ Python
++ Sci-kit Learn Random Forests Classifier
++ Kaggle
++ Jupyter Notebook
